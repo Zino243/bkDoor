@@ -1,7 +1,7 @@
 import socket
 
 mi_socket = socket.socket()
-mi_socket.connect( ('95.63.226.100', 8000) )
+mi_socket.connect( ('95.63.226.100', 5555) )
 
 i = True
 def disconnect():
