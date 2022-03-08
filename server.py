@@ -4,8 +4,9 @@ import socket
 import subprocess
 
 mi_socket = socket.socket()
-host = '192.168.0.18'
-#host = '0.0.0.0'
+#host = '192.168.0.18'
+#host = '95.63.226.100'
+host = '0.0.0.0'
 port = '5555'
 
 def start_server(host, port):
