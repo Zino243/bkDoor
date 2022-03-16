@@ -1,5 +1,3 @@
-#cd C:\Users\Zino243\Documents\python\autoserver
-
 import socket
 import subprocess
 
